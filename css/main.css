@@ -1,0 +1,47 @@
+body {
+  text-align: center;
+
+}
+
+ul {
+  background-color: rgb(255,0,255);
+  margin: 10px;
+  padding: 25px;
+}
+
+li {
+  background-color: white;
+  display: inline-block;
+  padding: 10px;
+}
+
+.box {
+  display: inline-block;
+  width: 40%
+}
+
+img {
+  width: 60%;
+  padding: 10px;
+  margin; 10px;
+}
+
+.html {
+  background-color: #2BA8E0;
+
+}
+
+.css {
+  background-color: #EE6526;
+}
+
+#circle {
+  background-color: purple;
+  height: 100px;
+  width: 100px;
+  border-radius: 60%
+}
+
+#newdiv {
+  background-color: grey;
+}
